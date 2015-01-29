@@ -1,0 +1,1 @@
+Crea una mappa del sito per la tua galleria. Sitemaps sono usati per indicare ai motori di ricerca le pagine che sono disponibili per la scansione.

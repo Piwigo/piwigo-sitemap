@@ -1,0 +1,1 @@
+Lager et side kart for galleriet ditt. Side kart blir brukt for å informere søke motorer om sider som er tilgjengelige for indeksering.

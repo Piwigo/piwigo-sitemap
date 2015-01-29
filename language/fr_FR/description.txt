@@ -1,0 +1,1 @@
+Crée un plan du site pour votre galerie. Les sitemaps sont utilisés pour indiquer aux moteurs de recherche les pages à analyser.

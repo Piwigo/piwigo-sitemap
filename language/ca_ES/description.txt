@@ -1,0 +1,1 @@
+Permet crear arxius 'sitemap' amb la finalitat d'informar als motors de cerca quines pàgines estan disponibles per al seu rastreig.

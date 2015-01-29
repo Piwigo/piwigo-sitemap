@@ -1,0 +1,1 @@
+Galerinize bir site haritası oluşturur. Site Haritaları kullanılabilir sayfalar hakkında arama motorlarına bilgilendirmek için kullanılır.

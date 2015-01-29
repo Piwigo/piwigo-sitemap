@@ -1,0 +1,1 @@
+Vytvorenie sitemap pre Va&scaron;u gal&eacute;riu. Sitemapy s&uacute; použ&iacute;van&eacute; na informovanie vyhľad&aacute;vačov o str&aacute;nkach, ktor&eacute; s&uacute; dostupn&eacute; pre ich index&aacute;ciu.

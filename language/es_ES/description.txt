@@ -1,0 +1,1 @@
+Crea sitemaps de tu galería. Los sitemaps se utilizan para informar a los motores de b&uacute;squeda sobre las páginas que están disponibles para el rastreo.

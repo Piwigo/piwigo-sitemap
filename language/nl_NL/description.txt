@@ -1,0 +1,1 @@
+Maakt een sitemap voor uw galerij. Sitemaps worden gebruikt om zoekmachines te informeren over pagina's die beschikbaar zijn om te indexeren.

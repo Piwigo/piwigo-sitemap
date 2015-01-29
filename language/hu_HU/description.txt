@@ -1,0 +1,1 @@
+L&eacute;trehoz egy webhelyt&eacute;rk&eacute;pet a gal&eacute;ri&aacute;hoz. A webhelyt&eacute;rk&eacute;pek seg&iacute;thetnek a keresőrobotoknak felt&eacute;rk&eacute;pezni az olyan oldalakat, amelyeket keresőmotorjaik m&aacute;shogy esetleg nem tal&aacute;ln&aacute;nak meg.

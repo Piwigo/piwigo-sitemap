@@ -1,0 +1,1 @@
+Veido jūsu galerijas lapas karti. Lapas kartes lieto, lai informētu meklētājprogrammas par web lapām, kas pieejamas indeksēšanai.

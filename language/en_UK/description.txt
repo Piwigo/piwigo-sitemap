@@ -1,0 +1,1 @@
+Creates a sitemap for your gallery. Sitemaps are used to inform search engines about pages that are available for crawling.

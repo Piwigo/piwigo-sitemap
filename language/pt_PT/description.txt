@@ -1,0 +1,1 @@
+Cria um mapa da galeria. os mapas de sítios servem para informar os motores de busca sobre as paginas a analisar

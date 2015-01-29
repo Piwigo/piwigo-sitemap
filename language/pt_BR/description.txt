@@ -1,0 +1,1 @@
+Cria um mapa do site para a sua galeria. Mapas de site são usados ​​para informar os motores de busca sobre as páginas que estão disponíveis para indexação.
