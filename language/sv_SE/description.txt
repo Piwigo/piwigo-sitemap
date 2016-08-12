@@ -1,0 +1,1 @@
+Skapar en sajtkarta för ditt galleri. Sajtkartan används för att ge information till sökmotorerna om vilka sidor som är tillgängliga för indexering.
